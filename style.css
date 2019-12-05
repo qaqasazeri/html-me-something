@@ -1,0 +1,74 @@
+body{
+
+	background-color: powderblue;
+	margin:25px;
+	padding:10px;
+}
+
+h1{
+	text-align: center;
+	text-shadow: 2px 2px red;
+}
+
+.Audi{
+	background-color: #3c3c3c;
+	color:white;
+
+}
+
+.BMW{
+	background-color: #787878;;
+	color:blue;
+}
+
+.Mercedes{
+	background-color: #b4b4b4;
+	color:green;
+}
+
+p {
+  text-indent: 50px;
+  padding: 2px;
+  margin:10px;
+}
+
+img {
+  border-radius: 50%;
+  
+}
+
+article{
+	width: 100%;
+	height: 50%;
+   text-align: justify;
+}
+
+footer{
+    width: 100%;
+	margin: 10px;
+	text-align: left;
+
+	}
+	
+	#author{
+
+		font-family: verdana;
+		color: red;
+	}
+#email{
+	text-decoration: none;
+	font-family: verdana;
+}
+
+a:link {
+  color: blue;
+}
+
+a:hover {
+  color: green;
+}
+
+#copyright{
+	font-family: verdana;
+	text-decoration-color: red;
+}
